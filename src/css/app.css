@@ -1,0 +1,26 @@
+.app {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app input {
+  width: 300px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  border: 1px solid rgba(60, 55, 61, 0.205);
+}
+
+.app input:hover {
+  width: 300px;
+  height: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 3px;
+  border: 1px solid rgb(109, 93, 112);
+}

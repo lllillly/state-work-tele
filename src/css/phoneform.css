@@ -1,0 +1,17 @@
+.phoneform button {
+  width: 325px;
+  height: 30px;
+  border: 2px solid #a1828a;
+  background: none;
+  outline: none;
+  background-color: rgb(185, 126, 147);
+}
+
+.phoneform button:hover {
+  width: 325px;
+  height: 30px;
+  border: 2px solid #a1828a;
+  background: none;
+  outline: none;
+  background-color: rgb(185, 126, 147);
+}
